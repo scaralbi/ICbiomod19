@@ -1,2 +1,3 @@
-# ICbiomod19
-Imperial Biomod 2019 
+# Imperial College BIOMOD 2019
+Nano DIPs
+
